@@ -21,3 +21,18 @@ Enhanced Collaboration: DevOps fosters collaboration between development and ope
 Cost Efficiency: By optimizing processes and resources, DevOps reduces operational costs and maximizes ROI.
 Adaptability: Scaling and infrastructure as code (IaC) make it easier to adapt to changing business needs and market fluctuations.
 Security: DevOps practices can integrate security throughout the development lifecycle, enhancing the protection of sensitive data and systems.
+
+Day 02-SOFTWARE DEVELOPMENT CYCLE
+he process of Developing and delivering software project called SDLC
+
+In SDLC we have several process
+
+Requirement gathering
+Requirement analysis
+Design / planning
+Development / coding / implementation
+Testing
+Deployment
+Deliver
+Maintenance
+
