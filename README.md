@@ -22,8 +22,7 @@ Cost Efficiency: By optimizing processes and resources, DevOps reduces operation
 Adaptability: Scaling and infrastructure as code (IaC) make it easier to adapt to changing business needs and market fluctuations.
 Security: DevOps practices can integrate security throughout the development lifecycle, enhancing the protection of sensitive data and systems.
 
-Day 02-SOFTWARE DEVELOPMENT CYCLE
-he process of Developing and delivering software project called SDLC
+Day 02-SOFTWARE DEVELOPMENT CYCLE 
 
 What is SDLC ?
 SDLC stands for Software Development Life Cycle. It is a framework that outlines the stages involved in the development of software applications. The SDLC typically includes several phases, which may vary slightly depending on the methodology used (e.g., Waterfall, Agile, DevOps). However, common stages in the SDLC include:
