@@ -1,4 +1,4 @@
-Introduction to EC2:
+# Day 3 Introduction to EC2:
 What is EC2, and why is it important?
 
 - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
